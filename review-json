@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "Product",
+   "name": "{servico} em {cidades}",
+   "image": [
+   "https://url.com.br/wp-content/uploads/2024/06/imagem.png"
+],
+  "description": "Procurando {servicos} em {cidades}? Temos uma equipe especializado em {servicos}, converse conosco. Saiba mais.",
+  "sku": "0446310728",
+  "mpn": "925542",
+  "brand": {
+  "@type": "Organization",
+  "name": "Nome da Empresa"
+},
+  "review": {
+  "@type": "Review",
+  "reviewRating": {
+  "@type": "Rating",
+  "ratingValue": "5",
+  "bestRating": "5"
+},
+  "author": {
+  "@type": "Person",
+  "name": "Maria Aparecida"
+}
+},
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"reviewCount": "17"
+}
+}
+</script>
